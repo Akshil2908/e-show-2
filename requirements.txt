@@ -24,6 +24,7 @@ django-mptt==0.13.4
 django-nested-admin==3.3.3
 django-select2==7.9.0
 django-six==1.0.4
+django-ses==1.0.3
 django-storages==1.12.3
 django-underconstruction==0.1.2
 django-utils-six==2.0
